@@ -26,8 +26,7 @@
 <br /><br />
 
 <details> <summary><b>🕹️ PRESS START</b></summary> <br />
-
-Arigato for scrolling all the way down. See you in the commits 🫡
+Are you GitHub? Because I want to commit to you. 
 
 </details> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00f0ff,50:7b2ff7,100:0d1117&height=150&section=footer&reversal=true" width="100%" alt="footer" />
 
