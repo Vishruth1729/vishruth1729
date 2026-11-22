@@ -8,24 +8,19 @@
   <img src="https://readme-typing-svg.demolab.com?font=Caveat&weight=600&size=26&pause=1000&color=a371f7&center=true&vCenter=true&width=490&height=44&lines=Thanks%20for%20viewing%20my%20profile!;Arigato!" alt="Typing headlines" />
 </p>
 
-<table>
-  <tr>
-    <td valign="top" width="50%">
-      <h3>🚀 About Me</h3>
-      <p>😄 &nbsp;Pronouns: <b>he/him</b></p>
-      <h3>🔗 Connect With Me</h3>
-      <p>
-        <a href="https://www.linkedin.com/in/vishruth-paladi/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-        <a href="https://instagram.com/vishruthx_x"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
-        <a href="mailto:paladivishrut@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-      </p>
-    </td>
-    <td valign="top" width="50%" align="center">
-      <h3>📊 GitHub Stats</h3>
-      <img height="165" src="https://github-readme-stats-five-sigma-99.vercel.app/api?username=vishruth1729&show_icons=true&theme=tokyonight&title_color=2ea043&icon_color=2ea043&hide_border=true&bg_color=00000000&count_private=true" alt="stats" />
-    </td>
-  </tr>
-</table>
+<img align="right" width="55%" src="https://github-readme-stats-five-sigma-99.vercel.app/api?username=vishruth1729&show_icons=true&theme=tokyonight&title_color=2ea043&icon_color=2ea043&hide_border=true&bg_color=00000000&count_private=true" alt="stats" />
+
+### 🚀 About Me
+
+😄 &nbsp;Pronouns: **he/him**
+
+### 🔗 Connect With Me
+
+<a href="https://www.linkedin.com/in/vishruth-paladi/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="https://instagram.com/vishruthx_x"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
+<a href="mailto:paladivishrut@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+
+<br clear="all" />
 
 ### 📈 Contribution Graph
 
