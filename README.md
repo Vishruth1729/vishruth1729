@@ -21,22 +21,12 @@
   <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0:7b2ff7,100:00f0ff&height=3" width="100%" alt="divider" />
   <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=800&size=28&duration=2000&pause=1000&color=FF2BD6&center=true&vCenter=true&repeat=false&width=520&height=60&lines=%2F%2F+SYSTEM+STATS" alt="SYSTEM STATS" />
   <br />
-  <table align="center">
-    <tr>
-      <td align="center" valign="middle">
-        <img src="https://github-readme-stats-five-sigma-99.vercel.app/api?username=vishruth1729&show_icons=true&theme=synthwave&title_color=00f0ff&icon_color=ff2bd6&text_color=c9d1d9&hide_border=true&bg_color=00000000&count_private=true" width="450" height="165" alt="stats" />
-      </td>
-      <td align="center" valign="middle">
-        <img src="https://github-readme-stats-five-sigma-99.vercel.app/api/top-langs/?username=vishruth1729&layout=compact&theme=synthwave&title_color=00f0ff&text_color=c9d1d9&hide_border=true&bg_color=00000000" width="300" height="165" alt="top languages" />
-      </td>
-    </tr>
-    <tr>
-      <td colspan="2" align="center" valign="middle">
-        <img src="https://streak-stats.demolab.com?user=vishruth1729&theme=transparent&hide_border=true&ring=00f0ff&fire=ff2bd6&currStreakLabel=00f0ff&sideLabels=c9d1d9&currStreakNum=c9d1d9&sideNums=c9d1d9&dates=8b949e&stroke=7b2ff7&background=00000000" width="450" height="165" alt="streak" />
-      </td>
-    </tr>
-  </table>
   <br />
+  <img src="https://github-readme-stats-five-sigma-99.vercel.app/api?username=vishruth1729&show_icons=true&theme=synthwave&title_color=00f0ff&icon_color=ff2bd6&text_color=c9d1d9&hide_border=true&bg_color=00000000&count_private=true" height="165" alt="stats" />
+  <img src="https://github-readme-stats-five-sigma-99.vercel.app/api/top-langs/?username=vishruth1729&layout=compact&theme=synthwave&title_color=00f0ff&text_color=c9d1d9&hide_border=true&bg_color=00000000" height="165" alt="top languages" />
+  <br />
+  <img src="https://streak-stats.demolab.com?user=vishruth1729&theme=transparent&hide_border=true&ring=00f0ff&fire=ff2bd6&currStreakLabel=00f0ff&sideLabels=c9d1d9&currStreakNum=c9d1d9&sideNums=c9d1d9&dates=8b949e&stroke=7b2ff7&background=00000000" height="165" alt="streak" />
+  <br /><br />
 
   <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0:00f0ff,100:7b2ff7&height=3" width="100%" alt="divider" />
   <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=800&size=28&duration=2000&pause=1000&color=FF2BD6&center=true&vCenter=true&repeat=false&width=620&height=60&lines=%2F%2F+CONTRIBUTION+MATRIX" alt="CONTRIBUTION MATRIX" />
