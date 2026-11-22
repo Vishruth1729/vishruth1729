@@ -5,18 +5,6 @@
 <a href="https://www.linkedin.com/in/vishruth-paladi/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a> <a href="https://instagram.com/vishruthx_x"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a> <a href="mailto:paladivishrut@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 
 </div> <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0:7b2ff7,100:00f0ff&height=3" width="100%" alt="divider" />
-bash
-vishruth@github:~$ whoami
-> Vishruth
-
-vishruth@github:~$ cat status.txt
-> online · learning · building · shipping
-
-vishruth@github:~$ sudo ./unlock --creativity
-> [##########] 100%  access granted
-
-vishruth@github:~$ ./connect --all
-> LinkedIn · Instagram · Email  [ready]
 <div align="center"> <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0:00f0ff,100:7b2ff7&height=3" width="100%" alt="divider" /> <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=800&size=28&duration=2000&pause=1000&color=00F0FF&center=true&vCenter=true&repeat=false&width=520&height=60&lines=%2F%2F+TECH+ARSENAL" alt="TECH ARSENAL" /> <img src="https://skillicons.dev/icons?i=html,css,js,git,github,vscode,godot&theme=dark" alt="skills" />
 
 <br /><br />
