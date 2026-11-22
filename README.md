@@ -40,9 +40,6 @@
   </picture>
   <br /><br />
 
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="quote" />
-  <br /><br />
-
   <details>
     <summary><b>🕹️ PRESS START</b></summary>
     <br />
