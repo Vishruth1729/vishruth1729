@@ -47,6 +47,4 @@
   </details>
 
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00f0ff,50:7b2ff7,100:0d1117&height=150&section=footer&reversal=true" width="100%" alt="footer" />
-
-  <i>⭐️ From <a href="https://github.com/vishruth1729">vishruth1729</a></i>
 </div>
